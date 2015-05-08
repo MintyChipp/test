@@ -1,4 +1,7 @@
-#test repo, for friends and stuff :D
+#Test repo, for friends and stuff :D
 
-#contains reverse.cpp, a program to reverse stuff.
-Written in C++!
+reverse.cpp
+A program to reverse a string of text.
+
+reverse.exe
+For people who can't or are too lazy to compile it themselves.
