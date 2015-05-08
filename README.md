@@ -1,2 +1,4 @@
 #test repo, for friends and stuff :D
-#lol second commit
+
+#contains reverse.cpp, a program to reverse stuff.
+Written in C++!
