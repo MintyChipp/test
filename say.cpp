@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-  cin >> char str[100]
-  cout << str
+  char string[100]
+  cin >> string
+  cout << string
   return 0;
 }
